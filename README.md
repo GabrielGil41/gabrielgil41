@@ -17,4 +17,9 @@
 <div>
   <a href="https://instagram.com/gabrielh.gil">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style-for-the-badge&logo=instagram&logoColor-white"/>
+  </a>
+    
+  <a href="https://tiktok.com/@gabrielgil.f">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </div>
